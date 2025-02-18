@@ -1,0 +1,9 @@
+D:\projects\rust_crosshair_kylos\bin\Debug\rust_crosshair_kylos.exe.config
+D:\projects\rust_crosshair_kylos\bin\Debug\rust_crosshair_kylos.exe
+D:\projects\rust_crosshair_kylos\bin\Debug\rust_crosshair_kylos.pdb
+D:\projects\rust_crosshair_kylos\obj\Debug\rust_crosshair_kylos.csproj.AssemblyReference.cache
+D:\projects\rust_crosshair_kylos\obj\Debug\rust_crosshair_kylos.Properties.Resources.resources
+D:\projects\rust_crosshair_kylos\obj\Debug\rust_crosshair_kylos.csproj.GenerateResource.cache
+D:\projects\rust_crosshair_kylos\obj\Debug\rust_crosshair_kylos.csproj.CoreCompileInputs.cache
+D:\projects\rust_crosshair_kylos\obj\Debug\rust_crosshair_kylos.exe
+D:\projects\rust_crosshair_kylos\obj\Debug\rust_crosshair_kylos.pdb
